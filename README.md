@@ -22,7 +22,7 @@ Examples:
 
 change log
 ========
-* **2014-05-19 version 0.86**
+2014-05-19 version 0.86
 * Replaced hard coded \n with option $newline
 * Added option $add_anonymous to add Dockblocks for anonymous functions
 * Added option $add_full to add all or minimal Docblock params
@@ -32,7 +32,7 @@ change log
 * Preserve tab indentations when adding Docblocks
 * Catch some undefined index errors
 
-* **2010-06-16 version 0.85**
+2010-06-16 version 0.85
 * https://github.com/agentile/PHP-Docblock-Generator
 
 
